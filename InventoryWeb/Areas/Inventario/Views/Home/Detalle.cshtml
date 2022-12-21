@@ -1,0 +1,106 @@
+﻿@model Inventory.Models.ViewModels.CarroComprasVM
+    <br />
+<form method="post">
+    <input hidden asp-for="CarroCompras.ProductoId" />
+    <input hidden asp-for="BodegaProducto.Cantidad" id="stock" />
+    <div class="container backgroundWhite mt-5">
+        <div class="card">
+            <div class="card-header bg-light text-light ml-0 row container">
+                <div class="col-12 col-md-6">
+                    <h2 class="text-primary">@Model.CarroCompras.Producto.Descripcion</h2>
+                </div>
+                <div class="col-12 col-md-6 text-md-right pt-4">
+                    <span class="badge badge-success pt-2" style="height:30px;">@Model.CarroCompras.Producto.Marca.Nombre</span>
+                    <span class="badge badge-warning pt-2" style="height:30px;">@Model.CarroCompras.Producto.Categoria.Nombre</span>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="container rounded p-2">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+
+
+                            <div class="row text-center pl-2" style="color:black; font-weight:bold">
+                                <div class="p-1 col-7 bg-secondary">
+                                    <div>Precio</div>
+                                </div>
+                                <div class="p-1 col-5 bg-secondary">
+                                    <div>En Stock</div>
+                                </div>
+                            </div>
+                            <div class="row text-center pl-2" style="color:white; font-weight:bold">
+                                <div class="p-1 col-7 bg-info">
+                                    <div>@Model.CarroCompras.Producto.Precio.ToString("c")</div>
+                                </div>
+                                <div class="p-1 col-5 bg-info">
+                                    <div>@Model.BodegaProducto.Cantidad</div>
+                                </div>
+                            </div>
+ 
+
+                            <br />
+                           <div class="row">
+                              <div class="col-7 col-md-4 text-primary">
+                                <h5 style="text-align:right;">Comprar:</h5>
+                              </div>
+                              <div class="col-5 col-md-4">
+                                    <input class="form-control" asp-for="CarroCompras.Cantidad" 
+                                           style="text-align:right;" min="1" id="cantidad" />
+                              </div>       
+                            </div>                           
+     
+                        </div>
+
+
+                       @{                        
+                       var base64 = Convert.ToBase64String(@Model.CarroCompras.Producto.Foto);
+                       var imgsrc = string.Format("data:image/jpg;base64,{0}", base64);
+        
+                        <div class="col-12 col-lg-3 offset-lg-1 text-center">
+                            <img src="@imgsrc" style="width:100%;" class="rounded" />
+                        </div>
+                       }
+
+
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer">
+                <div class="row">
+                    <div class="col-12 col-md-6 pb-1">
+                        <a asp-action="Index" Class="btn btn-success form-control  btn-square btn-lg" style="height:50px;">Regresar</a>
+                    </div>
+                    <div class="col-12 col-md-6 pb-1">
+                        <button type="submit" value="Agregar al Carro" 
+                                class="btn btn-primary btn-square btn-lg form-control" 
+                                style="height:50px;" id="btnAgregar">Agregar al Carro</button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts{
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $("#btnAgregar").click(function () {
+            var stock = document.getElementById("stock").value;
+            var cantidad = document.getElementById("cantidad").value;
+            stock = parseInt(stock);
+            cantidad = parseInt(cantidad);
+            if (cantidad < 1) {
+                swal("Error", "La cantidad no puede ser cero", "error");
+                return false;
+            }
+            if (cantidad > stock) {
+              swal("Error", "La cantidad no puede ser mayor que el inventario", "error");
+                return false;
+            }
+        });
+    </script>
+}
+

@@ -1,0 +1,38 @@
+﻿@model Inventory.Models.Marca
+
+@{
+    ViewData["Title"] = "Index";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <br />
+    <div class="row">
+        <div class="col-12">
+            <h2 class="text-primary text-center">Lista de Marcas</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-md-6 text-right">
+            <a class="btn btn-primary rounded-pill" asp-action="Upsert">
+                <i class="fas fa-plus"> Crear nueva marca </i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="p-4 border-rounded">
+    <table id="tblDatos" class="table table-responsive-md table-hover mt-2" style="width:100%">
+        <thead class="thead-dark">
+            <tr class="table-info">
+                <th style="max-width:35%;text-align:center;">Nombre</th>
+                <th style="max-width: 25%;text-align: center;">Estado</th>
+                <th style="max-width: 25%;text-align: center;">Operación</th>
+            </tr>
+        </thead>
+    </table>
+</div>
+
+@section Scripts{
+    <script src="~/js/marca.js"></script>
+}

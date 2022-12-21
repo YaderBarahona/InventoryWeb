@@ -1,0 +1,12 @@
+D:\InventoryWeb\InventoryWeb.Utilities\bin\Release\net5.0\InventoryWeb.Utilities.deps.json
+D:\InventoryWeb\InventoryWeb.Utilities\bin\Release\net5.0\InventoryWeb.Utilities.dll
+D:\InventoryWeb\InventoryWeb.Utilities\bin\Release\net5.0\ref\InventoryWeb.Utilities.dll
+D:\InventoryWeb\InventoryWeb.Utilities\bin\Release\net5.0\InventoryWeb.Utilities.pdb
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Release\net5.0\InventoryWeb.Utilities.csproj.AssemblyReference.cache
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Release\net5.0\InventoryWeb.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Release\net5.0\InventoryWeb.Utilities.AssemblyInfoInputs.cache
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Release\net5.0\InventoryWeb.Utilities.AssemblyInfo.cs
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Release\net5.0\InventoryWeb.Utilities.csproj.CoreCompileInputs.cache
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Release\net5.0\InventoryWeb.Utilities.dll
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Release\net5.0\ref\InventoryWeb.Utilities.dll
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Release\net5.0\InventoryWeb.Utilities.pdb

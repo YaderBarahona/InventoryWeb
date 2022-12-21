@@ -1,0 +1,66 @@
+﻿@model Inventory.Models.ViewModels.ProductoVM
+@{
+    var x = TempData["NoProducto"];
+}
+<div class="container mt-5">
+       <form method="post">
+        <div col-8 pt-4>
+            <br />
+            <div class="form-group row mt-1">
+                <div class="col-4">
+                    <select class="form-control" asp-items="Model.CategoriaLista" name="categoria">
+                        <option>Todas las categorías</option>
+                    </select>
+                </div>
+                <div class="col-4">
+                    <input class="form-control" name="filtro" placeholder="Buscar por nombre" />
+                </div>
+                <div class="col-4">
+                    <button type="submit" class="btn btn-primary" asp-action="Index">Buscar</button>
+                </div>
+            </div>
+        </div>
+    </form>
+    
+    <div class="row">
+        @foreach (var producto in Model.ProductoLista)
+        {
+            if (producto.Existencia > 0)
+            {                
+            <div class="col-lg-3 col-md-6">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="card d-flex flex-column align-items-center border-info"
+                             style="border:1px;max-width:100%;max-height:400px;min-height:400px;">
+
+                       @{
+                       var base64 = Convert.ToBase64String(@producto.Foto);
+                       var imgsrc = string.Format("data:image/jpg;base64,{0}", base64);
+                        <img src="@imgsrc" style="height:200px" class="d-block w-100" />
+                       }
+                                 
+                            <div class="pl-1">
+                                <p class="card-title h5">
+                                    <b style="color:#2c3e50">@producto.Nombre</b>
+                                </p>
+                            </div>
+                            <div style="padding-left:5px;">
+                                <p>Precio: <b>$@producto.Precio.ToString("###,###.00")</b></p>
+                            </div>
+
+                            <div style="margin-left:30%;margin-bottom:10px;">
+                                <a asp-action="Detalle"
+                                   class="btn btn-primary btn-lg form-control"
+                                   style="width:200px;"
+                                   asp-route-id="@producto.ProductoId">Detalle</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br />
+            </div>
+                        }
+
+        }
+    </div>
+</div>

@@ -1,0 +1,150 @@
+﻿@page
+@model RegisterModel
+@using InventoryWeb.Utilities
+@{
+    ViewData["Title"] = "Registro de usuarios";
+    var texto = "Confirme " + "contraseña: ";
+    var msg = TempData["msg"];
+}
+
+<style>
+    input {
+        max-width: 7000px;
+        min-width: 150px;
+    }
+
+    .etiqueta {
+        width: 170px;
+        justify-content: end;
+    }
+</style>
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row mt-4">
+    <div class="col-12 col-md-6">
+        <form asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <h4>Crer una nueva cuenta.</h4>
+            <hr />
+            <div asp-validation-summary="All" class="text-danger"></div>
+            @if (msg != null)
+            {
+               <h3>@msg</h3>
+            }
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta fw-bold"
+                      name="username" id="username">Usuario: </span>
+                <input asp-for="Input.UserName" class="form-control" aria-label="username">
+                <span asp-validation-for="Input.UserName" class="text-danger"></span>
+            </div>
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta fw-bold"
+                      name="email" id="email">Email: </span>
+                <input asp-for="Input.Email" class="form-control" aria-label="email">
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta fw-bold"
+                      name="nombre" id="nombre">Nombre: </span>
+                <input asp-for="Input.Nombres" class="form-control" aria-label="nombre">
+                <span asp-validation-for="Input.Nombres" class="text-danger"></span>
+            </div>
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta fw-bold"
+                      name="apellidos" id="apellidos">Apellidos: </span>
+                <input asp-for="Input.Apellidos" class="form-control" aria-label="apellidos">
+                <span asp-validation-for="Input.Apellidos" class="text-danger"></span>
+            </div>
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta fw-bold"
+                      name="direccion" id="direccion">Dirección: </span>
+                <input asp-for="Input.Direccion" class="form-control" aria-label="direccion">
+                <span asp-validation-for="Input.Direccion" class="text-danger"></span>
+            </div>
+
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta fw-bold"
+                      name="pais" id="pais">País: </span>
+                <input asp-for="Input.Pais" class="form-control" aria-label="pais">
+                <span asp-validation-for="Input.Pais" class="text-danger"></span>
+            </div>
+
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta fw-bold"
+                      name="ciudad" id="ciudad">Ciudad: </span>
+                <input asp-for="Input.Ciudad" class="form-control" aria-label="ciudad">
+                <span asp-validation-for="Input.Ciudad" class="text-danger"></span>
+            </div>
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta fw-bold"
+                      name="telefono" id="telefono">Teléfono: </span>
+                <input asp-for="Input.Telefono" class="form-control" aria-label="telefono">
+                <span asp-validation-for="Input.Telefono" class="text-danger"></span>
+            </div>
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta fw-bold"
+                      name="password" id="password">Contraseña: </span>
+                <input asp-for="Input.Password" type="password" class="form-control" aria-label="password">
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta fw-bold"
+                      name="confirmpassword" id="confirmpassword">@texto</span>
+                    <input asp-for="Input.ConfirmPassword" type="password" class="form-control" aria-label="confirmpassword">
+                    <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                </div>
+                <div class="input-group mt-2">
+                    @if (User.IsInRole(DS.Role_Admin))
+                    {
+                        <span class="input-group-text etiqueta fw-bold"
+                              name="listarol" id="listarol">Roles</span>
+                        @Html.DropDownListFor(r =>
+                               r.Input.Role, Model.Input.ListaRol,
+                               "Seleccione Rol", new { @class = "form-control" })
+                    }
+
+                </div>
+
+                <button type="submit" class="btn btn-primary mt-2">Registrar</button>
+            </form>
+        </div>
+        <div class="col-md-6 col-md-offset-2">
+            <section>
+                <h4>Use another service to register.</h4>
+                <hr />
+                @{
+                    if ((Model.ExternalLogins?.Count ?? 0) == 0)
+                    {
+                        <div>
+                            <p>
+                                There are no external authentication services configured. See <a href="https://go.microsoft.com/fwlink/?LinkID=532715">this article</a>
+                                for details on setting up this ASP.NET application to support logging in via external services.
+                            </p>
+                        </div>
+                    }
+                    else
+                    {
+                        <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+                            <div>
+                                <p>
+                                    @foreach (var provider in Model.ExternalLogins)
+                                    {
+                                        <button type="submit" class="btn btn-primary"
+                                                name="provider" value="@provider.Name"
+                                                title="Log in using your @provider.DisplayName
+                                            account">
+                                            @provider.DisplayName
+                                        </button>
+                                    }
+                                </p>
+                            </div>
+                        </form>
+                    }
+                }
+            </section>
+        </div>
+    </div>
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }

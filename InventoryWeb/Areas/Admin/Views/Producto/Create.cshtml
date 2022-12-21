@@ -1,0 +1,133 @@
+﻿@model Inventory.Models.ViewModels.CategoriaProductoVM;
+@{
+    ViewData["Title"] = "Crear";
+    var titulo = "Creación de Productos";
+}
+<style>
+    input {
+        max-width: 7000px;
+        min-width: 150px;
+    }
+
+    .etiqueta {
+        width: 130px;
+        text-align: right;
+    }
+</style>
+<form method="post"  enctype="multipart/form-data">
+    <div class="row">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    </div>
+ 
+        <input type="hidden" nombre="ProductoId" 
+               asp-for="Producto.ProductoId" />
+  
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-header-title text-primary text-center fw-bold">
+                    @titulo
+                </h4>
+            </div>
+            <h5 class="card-subtitle text-center text-muted"> Empresa ACME LTDA</h5>
+            <hr />
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta"
+                      name="Nombre" id="Nombre">Nombre: </span>
+                <input asp-for="Producto.Nombre" class="form-control" 
+                                aria-label="Nombre" />
+            </div>
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta"
+                      name="Descripcion" id="Descripcion">Descripción: </span>
+                <input asp-for="Producto.Descripcion" class="form-control" 
+                        aria-label="Descripcion" />
+            </div>
+
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta"
+                      name="Costo" id="Costo">Costo inicial: </span>
+                <input asp-for="Producto.Costo" class="form-control" 
+                        aria-label="Costo" asp-format="{0:N2}"/>
+                <span class="input-group-text etiqueta"
+                      name="Precio" id="Precio">Precio inicial: </span>
+                <input asp-for="Producto.Precio" class="form-control" 
+                        aria-label="Precio" asp-format="{0:N2}" />
+            </div>
+
+           <div class="input-group mt-2">
+                <span class="input-group-text etiqueta"
+                      name="Existencia" id="Existencia">Existencia inicial: </span>
+                <input asp-for="Producto.Existencia" class="form-control" 
+                        aria-label="Descripcion" type="number"/>
+            </div>
+
+
+
+        <div class="input-group mt-2">
+            <span class="input-group-text etiqueta" name="categoriaId" 
+               id="categoriaId">Categorías: </span>
+            @Html.DropDownListFor(c => c.Producto.CategoriaId, 
+                     Model.ListaCategoria, "Seleccione",
+              new { @class = "form-control" })
+            <span asp-validation-for="Producto.CategoriaId" class="text-danger"></span>
+        </div>
+        <div class="input-group mt-2">
+            <span class="input-group-text etiqueta" name="marcaId" 
+               id="categoriaId">Marcas: </span>
+            @Html.DropDownListFor(m => m.Producto.MarcaId, 
+                     Model.ListaMarca, "Seleccione",
+              new { @class = "form-control" })
+            <span asp-validation-for="Producto.MarcaId" class="text-danger"></span>
+        </div>
+
+
+           <div class="input-group mt-2">
+            <div class="col-6">
+                <div id="estilo-foto">
+                <p id="texto-boton-foto"><i class="fa fa-picture-o"></i>
+                   &nbsp;Agregar foto</p>
+
+                <input type="file" id="files"
+                       name="files" multiple class="form-control" />
+                </div>
+            </div>
+            <div class="col-5 form-control" style="border:none;">
+                <img id="image" src="~/Imagenes/no-imagen.jpg" 
+                     alt="image about menu item"
+                     style="width: 100%; height: 150px;" />
+            </div>
+            <span asp-validation-for="Producto.Foto" class="text-danger"></span>
+            </div>
+            <br />
+        <div class="form-group row pt-5 mt-5">
+            <div class="col-12">
+                    <partial name="_BotonesCrearRegresar"></partial>
+            </div>
+        </div>
+        <div>
+        </div>
+    </div>
+    </div>
+
+</form>
+
+
+@section Scripts{
+    <script type="text/javascript">
+        $("#files").change(function () {
+            readURL(this);
+        });
+        function readURL(input) {
+            if (input.files && input.files[0]) {
+                var reader = new FileReader();
+
+                reader.onload = function (e) {
+                    $('#image').attr('src', e.target.result);
+                }
+                reader.readAsDataURL(input.files[0]);
+            }
+        }
+    </script>
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

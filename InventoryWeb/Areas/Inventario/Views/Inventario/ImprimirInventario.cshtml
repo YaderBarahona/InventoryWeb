@@ -1,0 +1,147 @@
+﻿@model IEnumerable<Inventory.Models.InventarioDetalle>
+@using System.Globalization
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor 
+@{
+    ViewData["Title"] = "ImprimirInventario";
+    Layout = null;
+    var Total = 0.00;
+    var Costo = 0.00;
+    var Logo = @HttpContextAccessor.HttpContext.Session.GetString("Logo");
+    var Nombre = @HttpContextAccessor.HttpContext.Session.GetString("Nombre");
+    var Telefono = @HttpContextAccessor.HttpContext.Session.GetString("Telefono");
+    var Descripcion = @HttpContextAccessor.HttpContext.Session.GetString("Descripcion");
+    var Pais = @HttpContextAccessor.HttpContext.Session.GetString("Pais");
+    var Ciudad = @HttpContextAccessor.HttpContext.Session.GetString("Ciudad");
+ }
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body>
+    <div class="row">
+        <div class="col-sm-4">
+            <img src="@Logo" class="rounded" width="250" height="200" />
+        </div>
+        <div class="col-sm-4">
+            <label class="col-form-label" style="font-size: 20px; font-weight: bold">@Nombre</label>
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-12">
+            <label class="col-form-label" style="font-weight:bold; font-size:20px;">
+                Descripcion: 
+            </label>
+            <label class="col-form-label"
+                   style="font-size:20px;">@Descripcion</label>
+            </div>
+     </div>
+
+    <div class="form-group row">
+        <div class="col-4">
+            <label class="col-form-label" style="font-weight: bold; font-size:20px;">Telefono: </label>
+            <label class="col-form-label" style="font-size:20px;">@Telefono</label>
+        </div>
+        <div class="col-4">
+            <label class="col-form-label" style="font-weight: bold; font-size:20px;">País: </label>
+            <label class="col-form-label" style="font-size:20px;">@Pais</label>
+        </div>
+        <div class="col-4">
+            <label class="col-form-label" style="font-weight: bold; font-size:20px;">Ciudad: </label>
+            <label class="col-form-label" style="font-size:20px;">@Ciudad</label>
+        </div>
+    </div>
+        <div>
+            <table class="table table-striped border" style="height:10px;">
+                <thead class="thead-dark">
+                    <tr class="table-secondary thead-dark">
+                        <th style="font-weight: bold; font-size:20px;">
+                            Categoría
+                        </th>
+                        <th style="text-align:left; font-weight: bold; font-size:20px;">
+                            Nombre producto
+                        </th>
+                        <th style="text-align:left; font-weight: bold; font-size:20px;">
+                            Marca
+                        </th>
+                        <th style="text-align:right; font-weight: bold; font-size:20px;">
+                            Stock
+                        </th>
+                        <th style="text-align:right; font-weight: bold; font-size:20px;">
+                            Precio
+                        </th>
+                        <th style="text-align:right; font-weight: bold; font-size:20px;">
+                            Valor inventario
+                        </th>
+                    </tr>
+                <thead>
+                <tbody style="height:10px;">
+                    @foreach (var item in Model.ToList())
+                    {
+                        <tr>
+                            <td style="font-size:20px;">
+                                @Html.DisplayFor(m => item.Producto.Categoria.Nombre)
+                            </td>
+                            <td style="font-size:20px;">
+                                @Html.DisplayFor(m => item.Producto.Descripcion)
+                            </td>
+                            <td style="font-size:20px;">
+                                @Html.DisplayFor(m => item.Producto.Marca.Nombre)
+                            </td>
+                            <td style="text-align:right;font-size:20px;">
+                                @Html.DisplayFor(m => item.Cantidad)
+                            </td>
+                            <td style="text-align:right;font-size:20px;">
+                                @Html.DisplayFor(m => item.Producto.Precio, "Currency")
+                            </td>
+                            @{
+                                var subTotal = @item.Producto.Precio * item.Cantidad;
+                            }
+                            <td style="text-align:right;font-size:20px;">
+                                <label class="col-form-label">@subTotal.ToString("C2")</label>
+                            </td>
+                            @{
+                                Total += ((Double) @item.Producto.Precio) * item.Cantidad;
+                                Costo += ((Double) item.Producto.Costo) * item.Cantidad;
+
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <br />
+
+        <div class="form-group row">
+            <div class="col-12 col-md-6" style="font-weight: bold;font-size:20px;">
+                <label class="col-form-label">
+                    Costo Inventario:
+                </label>
+                <label class="col-form-label text-danger">@(String.Format("{0:C}",Costo))</label>
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <div class="col-12 col-md-6" style="font-weight: bold;font-size:20px;">
+                <label class="col-form-label">
+                    Precio Inventario:
+                </label>
+                <label class="col-form-label text-danger">@(String.Format("{0:C}",Total))</label>
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <div class="col-12 col-md-6" style="font-weight: bold;font-size:20px;">
+                <label class="col-form-label">
+                    Ganancia sobre inventario:
+                </label>
+                <label class="col-form-label text-danger">@(String.Format("{0:C}",Total-Costo))</label>
+            </div>
+        </div>
+
+    </body>
+</html>
+
+
+

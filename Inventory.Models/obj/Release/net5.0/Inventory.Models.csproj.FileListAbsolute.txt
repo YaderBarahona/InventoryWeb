@@ -1,0 +1,12 @@
+D:\InventoryWeb\Inventory.Models\bin\Release\net5.0\Inventory.Models.deps.json
+D:\InventoryWeb\Inventory.Models\bin\Release\net5.0\Inventory.Models.dll
+D:\InventoryWeb\Inventory.Models\bin\Release\net5.0\ref\Inventory.Models.dll
+D:\InventoryWeb\Inventory.Models\bin\Release\net5.0\Inventory.Models.pdb
+D:\InventoryWeb\Inventory.Models\obj\Release\net5.0\Inventory.Models.csproj.AssemblyReference.cache
+D:\InventoryWeb\Inventory.Models\obj\Release\net5.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\InventoryWeb\Inventory.Models\obj\Release\net5.0\Inventory.Models.AssemblyInfoInputs.cache
+D:\InventoryWeb\Inventory.Models\obj\Release\net5.0\Inventory.Models.AssemblyInfo.cs
+D:\InventoryWeb\Inventory.Models\obj\Release\net5.0\Inventory.Models.csproj.CoreCompileInputs.cache
+D:\InventoryWeb\Inventory.Models\obj\Release\net5.0\Inventory.Models.dll
+D:\InventoryWeb\Inventory.Models\obj\Release\net5.0\ref\Inventory.Models.dll
+D:\InventoryWeb\Inventory.Models\obj\Release\net5.0\Inventory.Models.pdb

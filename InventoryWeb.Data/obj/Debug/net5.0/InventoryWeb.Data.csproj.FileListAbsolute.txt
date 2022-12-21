@@ -1,0 +1,51 @@
+C:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Data.deps.json
+C:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Data.dll
+C:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\ref\InventoryWeb.Data.dll
+C:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Data.pdb
+C:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\Inventory.Models.dll
+C:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\Inventory.Models.pdb
+C:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.csproj.AssemblyReference.cache
+C:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.AssemblyInfoInputs.cache
+C:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.AssemblyInfo.cs
+C:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.csproj.CoreCompileInputs.cache
+C:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.csproj.CopyComplete
+C:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.dll
+C:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\ref\InventoryWeb.Data.dll
+C:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.pdb
+C:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+D:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.csproj.AssemblyReference.cache
+D:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.AssemblyInfoInputs.cache
+D:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.AssemblyInfo.cs
+D:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.csproj.CoreCompileInputs.cache
+D:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Data.deps.json
+D:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Data.dll
+D:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\ref\InventoryWeb.Data.dll
+D:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Data.pdb
+D:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\Inventory.Models.dll
+D:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+D:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\Inventory.Models.pdb
+D:\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+D:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.csproj.CopyComplete
+D:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.dll
+D:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\ref\InventoryWeb.Data.dll
+D:\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Data.deps.json
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Data.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\ref\InventoryWeb.Data.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Data.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\Inventory.Models.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\Inventory.Models.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.csproj.AssemblyReference.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.AssemblyInfoInputs.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.AssemblyInfo.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.csproj.CoreCompileInputs.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.csproj.CopyComplete
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\ref\InventoryWeb.Data.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb.Data\obj\Debug\net5.0\InventoryWeb.Data.pdb

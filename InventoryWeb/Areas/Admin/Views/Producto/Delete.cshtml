@@ -1,0 +1,100 @@
+﻿
+@model Inventory.Models.Producto;
+@{
+    ViewData["Title"] = "Editar";
+}
+<style>
+    input {
+        max-width: 5000px;
+        min-width: 150px;
+    }
+
+    .etiqueta {
+        width: 140px;
+        text-align: left;
+    }
+
+ 
+
+</style>
+<br />
+<h4 class="text-info font-weight-bold">Editar producto</h4>
+ 
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <div class="row backgroundWhiteBorder">
+        <div class="col-8 pt-1">
+            <input hidden asp-for="ProductoId" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+   
+           <div class="input-group mt-2">
+                <span class="input-group-text etiqueta"
+                      name="Nombre" id="Nombre">Nombre: </span>
+                <input asp-for="Nombre" class="form-control" 
+                                aria-label="Nombre" />
+            </div>
+
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta"
+                      name="Descripcion" id="Descripcion">Descripción: </span>
+                <input asp-for="Descripcion" class="form-control" 
+                        aria-label="Descripcion" />
+            </div>
+
+          <div class="input-group mt-2">
+                <span class="input-group-text etiqueta"
+                      name="Costo" id="Costo">Costo inicial: </span>
+                <input asp-for="Costo" class="form-control" 
+                        aria-label="Costo"/>
+                <span class="input-group-text etiqueta"
+                      name="Precio" id="Precio">Precio inicial: </span>
+                <input asp-for="Precio" class="form-control" 
+                        aria-label="Precio" />
+            </div>
+
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta"
+                      name="Existencia" id="Existencia">Existencia inicial: </span>
+                <input asp-for="Existencia" class="form-control" 
+                        aria-label="Existencia" type="number"/>
+            </div>
+
+             <div class="input-group mt-2">
+                <span class="input-group-text etiqueta"
+                      name="Categoria" id="Categoria">Categoría: </span>
+                <span class="input-group-text etiqueta">
+                      @ViewBag.Categoria   
+                  </span>                    
+            </div>
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta"
+                      name="Categoria" id="Marca">Marca: </span>
+                <span class="input-group-text etiqueta">
+                      @ViewBag.Marca
+                  </span>                    
+            </div>
+
+            <div class="input-group mt-2">
+              <span class="input-group-text etiqueta" name="foto" 
+               id="foto">Foto: </span>
+               @{
+                    var base64 = Convert.ToBase64String(Model.Foto);
+                    var imgsrc = string.Format("data:image/jpg;base64,{0}", base64);
+                }
+                <img src="@imgsrc" style="height:200px;width:150px;" id="images" />
+            </div>
+            <br />
+            <div class="form-group row">
+                <div class="col-8 offset-2">
+                    <partial name="_BotonesEliminarRegresar" model="Model.ProductoId" />
+                </div>
+            </div>
+        </div>
+
+    </div>
+</form>
+
+@section Scripts{
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+

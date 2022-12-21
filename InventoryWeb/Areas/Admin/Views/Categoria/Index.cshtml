@@ -1,0 +1,66 @@
+﻿@{
+    
+}
+<br />
+@if (TempData["crear"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show mt-5" role="alert">
+        <h4>@TempData["crear"]</h4>
+        <button type="button" class="close" data-dismiss="alert"
+                arial-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+else
+{
+    @if (TempData["actualizar"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show mt-5" role="alert">
+            <h4>@TempData["actualizar"]</h4>
+            <button type="button" class="close" data-dismiss="alert"
+                    arial-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+    }
+}
+<div class="container mt-5">
+    <div class="row mt-2">
+        <div class="col-md-6 col-12">
+            <h3 class="text-primary ml-2">Lista de Categorías</h3>
+        </div>
+        <div class="col-md-6 col-6 text-right">
+            <a class="btn btn-primary" asp-action="Upsert">
+                <i class="fas fa-plus"> Nueva categoría </i>
+            </a>
+    
+            <a asp-action="ImprimirCategorias" class="btn btn-warning mt-1"
+               asp-route-id="@Model" target="_blank" style="width:135px;">
+                <i class="fas fa-print"></i>
+                Imprimir
+            </a>
+    </div>
+     </div>
+</div>
+
+<div class="p-4 border-rounded">
+    <table id="tblDatos" class="table table-responsive-md table-bordered mt-2" style="width:100%">
+        <thead class="thead-dark">
+            <tr class="table-info">
+                <th style="max-width:35%;text-align:center;">Nombre</th>
+                <th style="max-width: 25%;text-align: center;">Estado</th>
+                <th style="max-width: 25%;text-align: center;">Operación</th>
+            </tr>
+        </thead>
+    </table>
+</div>
+
+@section Scripts{
+    <script src="~/js/categoria.js"></script>
+}
+
+
+
+
+

@@ -1,0 +1,1555 @@
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\appsettings.json
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.StaticWebAssets.xml
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.exe
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Rotativa\Windows\wkhtmltoimage.exe
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Rotativa\Windows\wkhtmltopdf.exe
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.deps.json
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.runtimeconfig.json
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.runtimeconfig.dev.json
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ref\InventoryWeb.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.pdb
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\mscorlib.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\netstandard.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Console.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Core.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Data.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Linq.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Memory.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Web.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Windows.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Views.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Views.pdb
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Humanizer.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Rotativa.AspNetCore.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Stripe.net.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Inventory.Models.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Data.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Inventory.Models.pdb
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Data.pdb
+C:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.csproj.AssemblyReference.cache
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.AssemblyInfoInputs.cache
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.AssemblyInfo.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.csproj.CoreCompileInputs.cache
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorAssemblyInfo.cache
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorAssemblyInfo.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\staticwebassets\InventoryWeb.StaticWebAssets.Manifest.cache
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\staticwebassets\InventoryWeb.StaticWebAssets.xml
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\scopedcss\bundle\InventoryWeb.styles.css
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.TagHelpers.input.cache
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.TagHelpers.output.cache
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorCoreGenerate.cache
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Bodega\Index.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Bodega\Upsert.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categoria\Index.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categoria\Upsert.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Compania\Index.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Compania\Upsert.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Marca\Index.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Marca\Upsert.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Producto\ImprimirProductos.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Producto\Index.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Producto\Upsert.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Usuario\Index.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\CarroCompras\ImprimirOrden.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\CarroCompras\Index.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\CarroCompras\OrdenConfirmacion.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\CarroCompras\Proceder.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Home\Detalle.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Home\Index.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Home\Privacy.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\DetalleHistorial.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\Historial.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\ImprimirInventario.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\Index.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\NuevoInventario.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\_ViewImports.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\_ViewStart.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_BotonesActualizarRegresar.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_BotonesCrearRegresar.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorTargetAssemblyInfo.cache
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorTargetAssemblyInfo.cs
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.Views.pdb
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.csproj.CopyComplete
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.dll
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\ref\InventoryWeb.dll
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.pdb
+C:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.genruntimeconfig.cache
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.csproj.AssemblyReference.cache
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.AssemblyInfoInputs.cache
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.AssemblyInfo.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.csproj.CoreCompileInputs.cache
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorAssemblyInfo.cache
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorAssemblyInfo.cs
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\appsettings.Development.json
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\appsettings.json
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.StaticWebAssets.xml
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.exe
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Rotativa\Windows\wkhtmltoimage.exe
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Rotativa\Windows\wkhtmltopdf.exe
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.deps.json
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.runtimeconfig.json
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.runtimeconfig.dev.json
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ref\InventoryWeb.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.pdb
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\mscorlib.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\netstandard.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Console.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Core.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Data.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Linq.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Memory.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Web.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Windows.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Views.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Views.pdb
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Humanizer.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Rotativa.AspNetCore.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Stripe.net.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Inventory.Models.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Data.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Inventory.Models.pdb
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Data.pdb
+D:\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.MvcApplicationPartsAssemblyInfo.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\staticwebassets\InventoryWeb.StaticWebAssets.Manifest.cache
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\staticwebassets\InventoryWeb.StaticWebAssets.xml
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\scopedcss\bundle\InventoryWeb.styles.css
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.TagHelpers.input.cache
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.TagHelpers.output.cache
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorCoreGenerate.cache
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Bodega\Index.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Bodega\Upsert.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categoria\Index.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categoria\Upsert.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Compania\Index.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Compania\Upsert.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Marca\Index.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Marca\Upsert.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Usuario\Index.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\CarroCompras\ImprimirOrden.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\CarroCompras\Index.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\CarroCompras\OrdenConfirmacion.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\CarroCompras\Proceder.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Home\Detalle.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Home\Index.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Home\Privacy.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\DetalleHistorial.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\Historial.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\ImprimirInventario.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\Index.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\NuevoInventario.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\_ViewImports.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\_ViewStart.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_BotonesActualizarRegresar.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_BotonesCrearRegresar.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorTargetAssemblyInfo.cache
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorTargetAssemblyInfo.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.Views.pdb
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.csproj.CopyComplete
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.dll
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\ref\InventoryWeb.dll
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.pdb
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.genruntimeconfig.cache
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Producto\Index.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Producto\Create.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Producto\Edit.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Producto\Delete.cshtml.g.cs
+D:\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_BotonesEliminarRegresar.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.StaticWebAssets.xml
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.exe
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Rotativa\Windows\wkhtmltoimage.exe
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Rotativa\Windows\wkhtmltopdf.exe
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.deps.json
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.runtimeconfig.json
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.runtimeconfig.dev.json
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ref\InventoryWeb.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Views.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Views.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Rotativa.AspNetCore.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Stripe.net.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Inventory.Models.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Data.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\Inventory.Models.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Data.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.csproj.AssemblyReference.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.AssemblyInfoInputs.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.AssemblyInfo.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.csproj.CoreCompileInputs.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorAssemblyInfo.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorAssemblyInfo.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\staticwebassets\InventoryWeb.StaticWebAssets.Manifest.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\staticwebassets\InventoryWeb.StaticWebAssets.xml
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\scopedcss\bundle\InventoryWeb.styles.css
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.TagHelpers.input.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.TagHelpers.output.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorCoreGenerate.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Bodega\Index.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Bodega\Upsert.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categoria\Index.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categoria\Upsert.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Compania\Index.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Compania\Upsert.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Marca\Index.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Marca\Upsert.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Producto\Create.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Producto\Delete.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Producto\Edit.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Producto\Index.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\Usuario\Index.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\CarroCompras\ImprimirOrden.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\CarroCompras\Index.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\CarroCompras\OrdenConfirmacion.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\CarroCompras\Proceder.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Home\Detalle.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Home\Index.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\DetalleHistorial.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\Historial.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\ImprimirInventario.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\Index.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Inventario\NuevoInventario.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\_ViewImports.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Areas\Inventario\Views\_ViewStart.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_BotonesActualizarRegresar.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_BotonesCrearRegresar.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_BotonesEliminarRegresar.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.Views.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.csproj.CopyComplete
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\ref\InventoryWeb.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\InventoryWeb\obj\Debug\net5.0\InventoryWeb.genruntimeconfig.cache

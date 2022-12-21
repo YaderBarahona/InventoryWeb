@@ -1,0 +1,17 @@
+﻿@model int
+     <div class="row">
+        <div class="col">
+            <button type="submit" class="btn btn-primary text-light rounded-pill form-control"
+                    asp-route-id="@Model">
+                <i class="fa fa-pencil-square-o fa-lg"></i>
+                Actualizar
+            </button>
+        </div>
+        <div class="col">
+            <a asp-action="Index" 
+               class="btn btn-success rounded-pill form-control">
+                <i class="fa fa-external-link"> Regresar</i>
+            </a>
+        </div>
+    </div>
+ 

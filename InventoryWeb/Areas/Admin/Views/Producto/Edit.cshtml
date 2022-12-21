@@ -1,0 +1,127 @@
+﻿@model Inventory.Models.ViewModels.CategoriaProductoVM;
+@{
+    ViewData["Title"] = "Editar";
+}
+<style>
+    input {
+        max-width: 5000px;
+        min-width: 150px;
+    }
+
+    .etiqueta {
+        width: 140px;
+        text-align: left;
+    }
+</style>
+<br />
+<h4 class="text-info font-weight-bold">Editar producto</h4>
+ 
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <div class="row backgroundWhiteBorder">
+        <div class="col-8 pt-1">
+            <input hidden asp-for="Producto.ProductoId" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+   
+           <div class="input-group mt-2">
+                <span class="input-group-text etiqueta"
+                      name="Nombre" id="Nombre">Nombre: </span>
+                <input asp-for="Producto.Nombre" class="form-control" 
+                                aria-label="Nombre" />
+            </div>
+
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta"
+                      name="Descripcion" id="Descripcion">Descripción: </span>
+                <input asp-for="Producto.Descripcion" class="form-control" 
+                        aria-label="Descripcion" />
+            </div>
+
+          <div class="input-group mt-2">
+                <span class="input-group-text etiqueta"
+                      name="Costo" id="Costo">Costo inicial: </span>
+                <input asp-for="Producto.Costo" class="form-control" 
+                        aria-label="Costo"/>
+                <span class="input-group-text etiqueta"
+                      name="Precio" id="Precio">Precio inicial: </span>
+                <input asp-for="Producto.Precio" class="form-control" 
+                        aria-label="Precio" />
+            </div>
+
+            <div class="input-group mt-2">
+                <span class="input-group-text etiqueta"
+                      name="Existencia" id="Existencia">Existencia inicial: </span>
+                <input asp-for="Producto.Existencia" class="form-control" 
+                        aria-label="Existencia" type="number"/>
+            </div>
+
+
+            <div class="input-group mt-2">
+                 <span class="input-group-text etiqueta" name="categoriaId" 
+               id="categoriaId">Categorías: </span>
+              <div col-md>
+                 @Html.DropDownListFor(c => c.Producto.CategoriaId, 
+                      Model.ListaCategoria, "Seleccione",
+                     new { @class = "form-control" })
+              </div>
+                              <span class="input-group-text etiqueta" name="marcaId" 
+                id="categoriaId">Marcas: </span>
+              <div col-md>
+
+                            @Html.DropDownListFor(m => m.Producto.MarcaId, 
+                     Model.ListaMarca, "Seleccione",
+              new { @class = "form-control" })
+              </div>
+
+            </div>
+ 
+
+            <div class="input-group mt-2">
+              <span class="input-group-text etiqueta" name="foto" 
+               id="foto">Foto: </span>
+               <div id="estilo-foto" style="">
+                <p id="texto-boton-foto"><i class="fa fa-picture-o"></i>
+                   &nbsp;Modificar foto</p>
+                <input type="file" id="files"
+                       name="files" multiple class="form-control" />
+                </div>
+            </div>
+
+            <div class="col-12 border">
+                @{
+@*                    var base64 = Convert.ToBase64String(@ViewBag.Foto);*@
+                   var base64 = Convert.ToBase64String(Model.Producto.Foto);
+                   var imgsrc = string.Format("data:image/jpg;base64,{0}", base64);
+                }
+                <img src="@imgsrc" style="height:200px;width:150px;" id="images" />
+            </div>
+ 
+            <div class="form-group row">
+                <div class="col-8 offset-2">
+                    <partial name="_BotonesActualizarRegresar" model="Model.Producto.ProductoId" />
+                </div>
+            </div>
+        </div>
+
+    </div>
+</form>
+
+@section Scripts{
+<script type="text/javascript">
+     $("#files").change(function () {
+        readURL(this);
+    });
+    function readURL(input) {
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+
+            reader.onload = function (e) {
+                $('#images').attr('src', e.target.result);
+            }
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+</script>
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+

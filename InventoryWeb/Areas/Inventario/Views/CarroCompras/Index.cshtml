@@ -1,0 +1,108 @@
+﻿@model Inventory.Models.ViewModels.CarroComprasVM
+@{
+    ViewData["Title"] = "Index";
+    @*Layout = "~/Views/Shared/_Layout.cshtml";*@
+}
+<br />
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show mt-5" role="alert">
+        <h4>@TempData["Error"]</h4>
+        <button type="button" class="close" data-dismiss="alert"
+                arial-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+<form method="post">
+    <br />
+    @if (Model.CarroComprasLista.Count() > 0)
+    {
+        <div>
+            <div class="container mt-4">
+                <div class="card">
+                    <div class="card-header bg-dark text-light ml-0 row container">
+                        <div class="col-6">
+                            <i class="fa fa-shopping-cart"></i> &nbsp;
+                            Carro de Compras
+                        </div>
+                        <div class="col-6 text-right">
+                            <a asp-area="Inventario" asp-controller="Home"
+                               asp-action="Index"
+                               class="btn btn-outline-info btn-sm">Seguir Comprando</a>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        @foreach (var item in Model.CarroComprasLista)
+                        {
+                         <div class="row">
+                          <div class="d-none d-lg-block col-lg-1 text-center py-2">
+                            @{
+                             var base64 = Convert.ToBase64String(@item.Producto.Foto);
+                              var imgsrc = string.Format("data:image/jpg;base64,{0}", base64);
+                             <img src="@imgsrc" class="rounded" width="50" />
+                             }
+                          </div>                              
+                          <div class="col-12 text-sm-center col-lg-6 text-lg-left">
+                             <h5><strong>@item.Producto.Descripcion</strong></h5>
+                                </div>
+                                <div class="col-12 text-sm-center col-lg-5 text-lg-right row">
+                                    <div class="col-5 text-md-right" style="padding-top:5px;">
+                                        <h5 class="text-danger">
+                                            <strong>
+                                                $@item.Producto.Precio.ToString("#.##")<span class="text-muted"> x </span>@item.Cantidad
+                                            </strong>
+                                        </h5>
+                                    </div>
+                                    <div class="col-12 col-sm-6 col-lg-6">
+                                        <div class="float-right mx-1">
+                                            <a asp-action="mas" asp-route-carroId="@item.Id"
+                                               class="btn btn-primary">
+                                                <i class="fas fa-plus"></i>
+                                            </a>
+                                        </div>
+                                        <div class="float-right mx-1">
+                                            <a asp-action="menos" asp-route-carroId="@item.Id"
+                                               class="btn btn-danger">
+                                                <i class="fas fa-minus"></i>
+                                            </a>
+                                        </div>
+                                       <div class="col-1 col-sm-4 col-lg-2 text-right">
+                                        <a asp-action="remover" asp-route-carroId="@item.Id"
+                                           class="btn btn-outline-danger">
+                                            <i class="fas fa-trash"></i>
+                                        </a>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr />
+                        }
+
+                        <div class="row">
+                            <div class="col-12 col-md-6 offset-md-6 col-lg-4 offset-lg-8 pr-4">
+                                <ul class="list-group">
+                                    <li class="list-group-item d-flex justify-content-between bg-light">
+                                        <span class="text-info"> Total (CR) </span>
+                                        <strong class="text-info">
+                                            <span id="txtTotalOrden">$@Model.Orden.TotalOrden.ToString("#.##")</span>
+                                        </strong>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card-footer">
+                        <div class="card-footer row">
+                            <div class="col-sm-12 col-lg-4 col-md-6 offset-lg-8 offset-md-6 ">
+                                <a asp-area="Inventario" asp-controller="CarroCompras"
+                                   asp-action="Proceder" class="btn btn-success form-control">Proceder</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</form>

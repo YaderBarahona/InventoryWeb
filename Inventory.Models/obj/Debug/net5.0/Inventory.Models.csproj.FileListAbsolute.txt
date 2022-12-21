@@ -1,0 +1,35 @@
+C:\InventoryWeb\Inventory.Models\bin\Debug\net5.0\Inventory.Models.deps.json
+C:\InventoryWeb\Inventory.Models\bin\Debug\net5.0\Inventory.Models.dll
+C:\InventoryWeb\Inventory.Models\bin\Debug\net5.0\ref\Inventory.Models.dll
+C:\InventoryWeb\Inventory.Models\bin\Debug\net5.0\Inventory.Models.pdb
+C:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.AssemblyReference.cache
+C:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfoInputs.cache
+C:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfo.cs
+C:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.CoreCompileInputs.cache
+C:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.dll
+C:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\ref\Inventory.Models.dll
+C:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.pdb
+D:\InventoryWeb\Inventory.Models\bin\Debug\net5.0\Inventory.Models.deps.json
+D:\InventoryWeb\Inventory.Models\bin\Debug\net5.0\Inventory.Models.dll
+D:\InventoryWeb\Inventory.Models\bin\Debug\net5.0\ref\Inventory.Models.dll
+D:\InventoryWeb\Inventory.Models\bin\Debug\net5.0\Inventory.Models.pdb
+D:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfoInputs.cache
+D:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfo.cs
+D:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.CoreCompileInputs.cache
+D:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.dll
+D:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\ref\Inventory.Models.dll
+D:\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\Inventory.Models\bin\Debug\net5.0\Inventory.Models.deps.json
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\Inventory.Models\bin\Debug\net5.0\Inventory.Models.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\Inventory.Models\bin\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\Inventory.Models\bin\Debug\net5.0\Inventory.Models.pdb
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.AssemblyReference.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfoInputs.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfo.cs
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.CoreCompileInputs.cache
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\Inventory.Models\obj\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\Yader Jr\Desktop\InventoryWebCompleto\InventoryWeb\Inventory.Models\obj\Debug\net5.0\Inventory.Models.pdb
